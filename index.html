@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>PFO2 - Prompt Engineering</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+  <canvas id="starCanvas"></canvas>
+
+  <main class="main-container">
+    <section class="hero">
+      <div class="icon">✦</div>
+
+      <p class="tag">Práctica Formativa Obligatoria 2</p>
+
+      <h1>
+        Prompt Engineering en <br>
+        <span>Agentes de IA</span>
+      </h1>
+
+      <p class="subtitle">
+        Proyecto de Front End desarrollado para comparar la generación de una Landing Page
+        mediante dos agentes de inteligencia artificial.
+      </p>
+
+      <div class="student-data">
+        <p><strong>Estudiante:</strong> Valeria Natucci</p>
+        <p><strong>Instituto:</strong> Instituto de Formación Técnica Superior N°29</p>
+        <p><strong>Materia:</strong> Front End</p>
+        <p><strong>Docente:</strong> Luciano Ariel Martínez</p>
+        <p><strong>Proyecto:</strong> Tafí Viejo English Academy</p>
+      </div>
+    </section>
+
+    <section class="cards-grid">
+
+      <article class="premium-card">
+        <div class="card-icon">📄</div>
+        <h3>Prompt utilizado</h3>
+        <p>
+          Texto plano del prompt inicial utilizado en ambos agentes para generar la Landing Page.
+        </p>
+        <a href="/prompt/index.html" target="_blank" class="card-button">
+          Ver Prompt
+        </a>
+      </article>
+
+      <article class="premium-card">
+        <div class="card-icon">🤖</div>
+        <h3>Landing Page 1</h3>
+        <p>
+          Landing Page generada por Codex utilizando el mismo prompt inicial.
+        </p>
+        <a href="agente_codex/index.html" target="_blank" class="card-button">
+          Abrir Landing Codex
+        </a>
+      </article>
+
+      <article class="premium-card">
+        <div class="card-icon">✨</div>
+        <h3>Landing Page 2</h3>
+        <p>
+          Landing Page generada por Claude utilizando el mismo prompt inicial.
+        </p>
+        <a href="agente_claude/index.html" target="_blank" class="card-button">
+          Abrir Landing Cursor
+        </a>
+      </article>
+
+    </section>
+
+    <footer class="footer">
+      <p>IFTS N°29 <span>•</span> Front End <span>•</span> PFO2</p>
+    </footer>
+  </main>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
