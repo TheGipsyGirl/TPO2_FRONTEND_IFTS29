@@ -11,11 +11,9 @@ Valeria Natucci
 Instituto de Formación Técnica Superior N°29
 
 ### Materia
-
 Front End - 2° AÑO
 
-### Docente
-
+### Docente 
 Luciano Ariel Martínez
 
 ---
@@ -30,10 +28,10 @@ Este proyecto consiste en desarrollar una Landing Page utilizando exactamente el
 
 ## Accesos
 
-* 🌐 Deploy en Vercel: (https://tpo2-frontend-ifts-29.vercel.app/)
-* 🤖 Landing Page generada por Claude Sonnet 4
-* ⚡ Landing Page generada por Codex GPT-5
-* 📄 Prompt utilizado : 
+* 🌐 Deploy en Vercel: https://tpo2-frontend-ifts-29.vercel.app/
+* 🤖 Landing Page generada por Claude Sonnet 4 https://tpo2-frontend-ifts-29.vercel.app/agente_claude/index.html
+* ⚡ Landing Page generada por Codex GPT-5 https://tpo2-frontend-ifts-29.vercel.app/agente_codex/index.html
+* 📄 Prompt utilizado https://tpo2-frontend-ifts-29.vercel.app/prompt/index.html
 
 ## Prompt utilizado
 
@@ -464,6 +462,11 @@ PFO2-TafiViejo-English-Academy/
 * Vercel
 
 ---
+PORTADA DEL PROYECTO
+
+<img width="1862" height="895" alt="image" src="https://github.com/user-attachments/assets/57b12442-c1c3-4327-84d7-a1f8766e64fe" />
+
+---
 
 ## Agentes utilizados
 
@@ -472,7 +475,6 @@ PFO2-TafiViejo-English-Academy/
 
 * Codex GPT-5
 <img width="1600" height="763" alt="IMG-20260625-WA0079" src="https://github.com/user-attachments/assets/bac66b37-31c6-49a0-a536-b9063cc35519" />
-
   
 
 ---
